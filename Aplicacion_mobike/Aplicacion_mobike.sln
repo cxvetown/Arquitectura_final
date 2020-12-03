@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaz_usuario", "Aplicacion_mobike\Interfaz_usuario.csproj", "{20CB9BAF-8D1A-4C53-97E2-C22336D56330}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conexion_BD", "Biblioteca\Conexion_BD.csproj", "{931316EC-8695-49EE-BFB4-F45798BCCA5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controlador", "Controlador\Controlador.csproj", "{065E83BA-BD52-4007-9487-56814297BF01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mobike_data", "Mobike_data\Mobike_data.csproj", "{1867E84D-33DB-4D3F-9A30-AF509AFD1403}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20CB9BAF-8D1A-4C53-97E2-C22336D56330}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20CB9BAF-8D1A-4C53-97E2-C22336D56330}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20CB9BAF-8D1A-4C53-97E2-C22336D56330}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20CB9BAF-8D1A-4C53-97E2-C22336D56330}.Release|Any CPU.Build.0 = Release|Any CPU
+		{931316EC-8695-49EE-BFB4-F45798BCCA5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{931316EC-8695-49EE-BFB4-F45798BCCA5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{931316EC-8695-49EE-BFB4-F45798BCCA5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{931316EC-8695-49EE-BFB4-F45798BCCA5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{065E83BA-BD52-4007-9487-56814297BF01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{065E83BA-BD52-4007-9487-56814297BF01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{065E83BA-BD52-4007-9487-56814297BF01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{065E83BA-BD52-4007-9487-56814297BF01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1867E84D-33DB-4D3F-9A30-AF509AFD1403}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1867E84D-33DB-4D3F-9A30-AF509AFD1403}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1867E84D-33DB-4D3F-9A30-AF509AFD1403}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1867E84D-33DB-4D3F-9A30-AF509AFD1403}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

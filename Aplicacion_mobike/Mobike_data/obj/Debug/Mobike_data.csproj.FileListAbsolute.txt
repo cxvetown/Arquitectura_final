@@ -1,0 +1,10 @@
+C:\Users\56977\Documents\GitHub\Arquitectura_1\Aplicacion_mobike\Mobike_data\bin\Debug\Mobike_data.dll
+C:\Users\56977\Documents\GitHub\Arquitectura_1\Aplicacion_mobike\Mobike_data\bin\Debug\Mobike_data.pdb
+C:\Users\56977\Documents\GitHub\Arquitectura_1\Aplicacion_mobike\Mobike_data\obj\Debug\Mobike_data.dll
+C:\Users\56977\Documents\GitHub\Arquitectura_1\Aplicacion_mobike\Mobike_data\obj\Debug\Mobike_data.pdb
+C:\Users\56977\Documents\GitHub\Arquitectura_1\Aplicacion_mobike\Mobike_data\obj\Debug\Mobike_data.csprojResolveAssemblyReference.cache
+C:\Users\56977\Documents\Arquitectura_1-c4931f00108c561db1f929337e90804e002cd3e6\Aplicacion_mobike\Mobike_data\bin\Debug\Mobike_data.dll
+C:\Users\56977\Documents\Arquitectura_1-c4931f00108c561db1f929337e90804e002cd3e6\Aplicacion_mobike\Mobike_data\bin\Debug\Mobike_data.pdb
+C:\Users\56977\Documents\Arquitectura_1-c4931f00108c561db1f929337e90804e002cd3e6\Aplicacion_mobike\Mobike_data\obj\Debug\Mobike_data.csprojResolveAssemblyReference.cache
+C:\Users\56977\Documents\Arquitectura_1-c4931f00108c561db1f929337e90804e002cd3e6\Aplicacion_mobike\Mobike_data\obj\Debug\Mobike_data.dll
+C:\Users\56977\Documents\Arquitectura_1-c4931f00108c561db1f929337e90804e002cd3e6\Aplicacion_mobike\Mobike_data\obj\Debug\Mobike_data.pdb

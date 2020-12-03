@@ -1,0 +1,119 @@
+C:\Users\56977\documents\visual studio 2017\Projects\Aplicacion_mobike\Aplicacion_mobike\bin\Debug\Aplicacion_mobike.exe.config
+C:\Users\56977\documents\visual studio 2017\Projects\Aplicacion_mobike\Aplicacion_mobike\bin\Debug\Aplicacion_mobike.exe
+C:\Users\56977\documents\visual studio 2017\Projects\Aplicacion_mobike\Aplicacion_mobike\bin\Debug\Aplicacion_mobike.pdb
+C:\Users\56977\documents\visual studio 2017\Projects\Aplicacion_mobike\Aplicacion_mobike\bin\Debug\Biblioteca.dll
+C:\Users\56977\documents\visual studio 2017\Projects\Aplicacion_mobike\Aplicacion_mobike\bin\Debug\Controlador.dll
+C:\Users\56977\documents\visual studio 2017\Projects\Aplicacion_mobike\Aplicacion_mobike\bin\Debug\GMap.NET.Core.dll
+C:\Users\56977\documents\visual studio 2017\Projects\Aplicacion_mobike\Aplicacion_mobike\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\56977\documents\visual studio 2017\Projects\Aplicacion_mobike\Aplicacion_mobike\bin\Debug\Biblioteca.pdb
+C:\Users\56977\documents\visual studio 2017\Projects\Aplicacion_mobike\Aplicacion_mobike\bin\Debug\Controlador.pdb
+C:\Users\56977\documents\visual studio 2017\Projects\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Interfaz_usuario.csprojResolveAssemblyReference.cache
+C:\Users\56977\documents\visual studio 2017\Projects\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.Administrador.resources
+C:\Users\56977\documents\visual studio 2017\Projects\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.Alerta_interaccion_usuario.resources
+C:\Users\56977\documents\visual studio 2017\Projects\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.Arrendar.resources
+C:\Users\56977\documents\visual studio 2017\Projects\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.Devolucion.resources
+C:\Users\56977\documents\visual studio 2017\Projects\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.Funcionario.resources
+C:\Users\56977\documents\visual studio 2017\Projects\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.Login.resources
+C:\Users\56977\documents\visual studio 2017\Projects\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.Menu_usuario.resources
+C:\Users\56977\documents\visual studio 2017\Projects\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.Properties.Resources.resources
+C:\Users\56977\documents\visual studio 2017\Projects\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.Registrarse.resources
+C:\Users\56977\documents\visual studio 2017\Projects\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.Reporte_seleccionado.resources
+C:\Users\56977\documents\visual studio 2017\Projects\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.Selector_administracion.resources
+C:\Users\56977\documents\visual studio 2017\Projects\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.testbd.resources
+C:\Users\56977\documents\visual studio 2017\Projects\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Interfaz_usuario.csproj.GenerateResource.Cache
+C:\Users\56977\documents\visual studio 2017\Projects\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.exe
+C:\Users\56977\documents\visual studio 2017\Projects\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.pdb
+C:\Users\56977\documents\visual studio 2017\Projects\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.login_admin.resources
+C:\Users\56977\documents\visual studio 2017\Projects\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.login_funcionario.resources
+C:\Users\richa\OneDrive\Escritorio\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\bin\Debug\Aplicacion_mobike.exe.config
+C:\Users\richa\OneDrive\Escritorio\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\bin\Debug\Aplicacion_mobike.exe
+C:\Users\richa\OneDrive\Escritorio\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\bin\Debug\Aplicacion_mobike.pdb
+C:\Users\richa\OneDrive\Escritorio\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\bin\Debug\Biblioteca.dll
+C:\Users\richa\OneDrive\Escritorio\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\bin\Debug\Controlador.dll
+C:\Users\richa\OneDrive\Escritorio\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\bin\Debug\GMap.NET.Core.dll
+C:\Users\richa\OneDrive\Escritorio\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\richa\OneDrive\Escritorio\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\bin\Debug\Biblioteca.pdb
+C:\Users\richa\OneDrive\Escritorio\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\bin\Debug\Controlador.pdb
+C:\Users\richa\OneDrive\Escritorio\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Interfaz_usuario.csprojAssemblyReference.cache
+C:\Users\richa\OneDrive\Escritorio\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.Administrador.resources
+C:\Users\richa\OneDrive\Escritorio\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.Alerta_interaccion_usuario.resources
+C:\Users\richa\OneDrive\Escritorio\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.Arrendar.resources
+C:\Users\richa\OneDrive\Escritorio\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.Devolucion.resources
+C:\Users\richa\OneDrive\Escritorio\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.Funcionario.resources
+C:\Users\richa\OneDrive\Escritorio\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.Generar_reporte.resources
+C:\Users\richa\OneDrive\Escritorio\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.Login.resources
+C:\Users\richa\OneDrive\Escritorio\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.login_admin.resources
+C:\Users\richa\OneDrive\Escritorio\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.login_funcionario.resources
+C:\Users\richa\OneDrive\Escritorio\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.Menu_usuario.resources
+C:\Users\richa\OneDrive\Escritorio\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.Properties.Resources.resources
+C:\Users\richa\OneDrive\Escritorio\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.Registrarse.resources
+C:\Users\richa\OneDrive\Escritorio\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.Reporte_seleccionado.resources
+C:\Users\richa\OneDrive\Escritorio\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.Selector_administracion.resources
+C:\Users\richa\OneDrive\Escritorio\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.testbd.resources
+C:\Users\richa\OneDrive\Escritorio\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Interfaz_usuario.csproj.GenerateResource.cache
+C:\Users\richa\OneDrive\Escritorio\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Interfaz_usuario.csproj.CoreCompileInputs.cache
+C:\Users\richa\OneDrive\Escritorio\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Interfaz_usuario.csproj.CopyComplete
+C:\Users\richa\OneDrive\Escritorio\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.exe
+C:\Users\richa\OneDrive\Escritorio\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.pdb
+C:\Users\56977\Documents\GitHub\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\bin\Debug\Aplicacion_mobike.exe.config
+C:\Users\56977\Documents\GitHub\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\bin\Debug\Aplicacion_mobike.exe
+C:\Users\56977\Documents\GitHub\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\bin\Debug\Aplicacion_mobike.pdb
+C:\Users\56977\Documents\GitHub\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\bin\Debug\Biblioteca.dll
+C:\Users\56977\Documents\GitHub\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\bin\Debug\Controlador.dll
+C:\Users\56977\Documents\GitHub\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\bin\Debug\GMap.NET.Core.dll
+C:\Users\56977\Documents\GitHub\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\56977\Documents\GitHub\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\bin\Debug\Biblioteca.pdb
+C:\Users\56977\Documents\GitHub\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\bin\Debug\Controlador.pdb
+C:\Users\56977\Documents\GitHub\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Interfaz_usuario.csprojResolveAssemblyReference.cache
+C:\Users\56977\Documents\GitHub\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.Administrador.resources
+C:\Users\56977\Documents\GitHub\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.Alerta_interaccion_usuario.resources
+C:\Users\56977\Documents\GitHub\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.Arrendar.resources
+C:\Users\56977\Documents\GitHub\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.Devolucion.resources
+C:\Users\56977\Documents\GitHub\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.Funcionario.resources
+C:\Users\56977\Documents\GitHub\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.Generar_reporte.resources
+C:\Users\56977\Documents\GitHub\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.Login.resources
+C:\Users\56977\Documents\GitHub\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.login_admin.resources
+C:\Users\56977\Documents\GitHub\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.login_funcionario.resources
+C:\Users\56977\Documents\GitHub\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.Menu_usuario.resources
+C:\Users\56977\Documents\GitHub\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.Properties.Resources.resources
+C:\Users\56977\Documents\GitHub\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.Registrarse.resources
+C:\Users\56977\Documents\GitHub\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.Reporte_seleccionado.resources
+C:\Users\56977\Documents\GitHub\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.Selector_administracion.resources
+C:\Users\56977\Documents\GitHub\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Interfaz_usuario.csproj.GenerateResource.Cache
+C:\Users\56977\Documents\GitHub\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.exe
+C:\Users\56977\Documents\GitHub\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.pdb
+C:\Users\56977\Documents\GitHub\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\bin\Debug\Mobike_data.dll
+C:\Users\56977\Documents\GitHub\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\bin\Debug\Mobike_data.pdb
+C:\Users\56977\Documents\GitHub\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.cambio_contraseña.resources
+C:\Users\56977\Documents\GitHub\Arquitectura_1\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.Bloqueo_usuario.resources
+C:\Users\56977\Documents\Arquitectura_1-c4931f00108c561db1f929337e90804e002cd3e6\Aplicacion_mobike\Aplicacion_mobike\bin\Debug\Aplicacion_mobike.exe.config
+C:\Users\56977\Documents\Arquitectura_1-c4931f00108c561db1f929337e90804e002cd3e6\Aplicacion_mobike\Aplicacion_mobike\bin\Debug\Aplicacion_mobike.exe
+C:\Users\56977\Documents\Arquitectura_1-c4931f00108c561db1f929337e90804e002cd3e6\Aplicacion_mobike\Aplicacion_mobike\bin\Debug\Aplicacion_mobike.pdb
+C:\Users\56977\Documents\Arquitectura_1-c4931f00108c561db1f929337e90804e002cd3e6\Aplicacion_mobike\Aplicacion_mobike\bin\Debug\Biblioteca.dll
+C:\Users\56977\Documents\Arquitectura_1-c4931f00108c561db1f929337e90804e002cd3e6\Aplicacion_mobike\Aplicacion_mobike\bin\Debug\Controlador.dll
+C:\Users\56977\Documents\Arquitectura_1-c4931f00108c561db1f929337e90804e002cd3e6\Aplicacion_mobike\Aplicacion_mobike\bin\Debug\GMap.NET.Core.dll
+C:\Users\56977\Documents\Arquitectura_1-c4931f00108c561db1f929337e90804e002cd3e6\Aplicacion_mobike\Aplicacion_mobike\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\56977\Documents\Arquitectura_1-c4931f00108c561db1f929337e90804e002cd3e6\Aplicacion_mobike\Aplicacion_mobike\bin\Debug\Mobike_data.dll
+C:\Users\56977\Documents\Arquitectura_1-c4931f00108c561db1f929337e90804e002cd3e6\Aplicacion_mobike\Aplicacion_mobike\bin\Debug\Biblioteca.pdb
+C:\Users\56977\Documents\Arquitectura_1-c4931f00108c561db1f929337e90804e002cd3e6\Aplicacion_mobike\Aplicacion_mobike\bin\Debug\Controlador.pdb
+C:\Users\56977\Documents\Arquitectura_1-c4931f00108c561db1f929337e90804e002cd3e6\Aplicacion_mobike\Aplicacion_mobike\bin\Debug\Mobike_data.pdb
+C:\Users\56977\Documents\Arquitectura_1-c4931f00108c561db1f929337e90804e002cd3e6\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Interfaz_usuario.csprojResolveAssemblyReference.cache
+C:\Users\56977\Documents\Arquitectura_1-c4931f00108c561db1f929337e90804e002cd3e6\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.Administrador.resources
+C:\Users\56977\Documents\Arquitectura_1-c4931f00108c561db1f929337e90804e002cd3e6\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.Alerta_interaccion_usuario.resources
+C:\Users\56977\Documents\Arquitectura_1-c4931f00108c561db1f929337e90804e002cd3e6\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.Arrendar.resources
+C:\Users\56977\Documents\Arquitectura_1-c4931f00108c561db1f929337e90804e002cd3e6\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.Bloqueo_usuario.resources
+C:\Users\56977\Documents\Arquitectura_1-c4931f00108c561db1f929337e90804e002cd3e6\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.cambio_contraseña.resources
+C:\Users\56977\Documents\Arquitectura_1-c4931f00108c561db1f929337e90804e002cd3e6\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.Devolucion.resources
+C:\Users\56977\Documents\Arquitectura_1-c4931f00108c561db1f929337e90804e002cd3e6\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.Funcionario.resources
+C:\Users\56977\Documents\Arquitectura_1-c4931f00108c561db1f929337e90804e002cd3e6\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.Generar_reporte.resources
+C:\Users\56977\Documents\Arquitectura_1-c4931f00108c561db1f929337e90804e002cd3e6\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.Login.resources
+C:\Users\56977\Documents\Arquitectura_1-c4931f00108c561db1f929337e90804e002cd3e6\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.login_admin.resources
+C:\Users\56977\Documents\Arquitectura_1-c4931f00108c561db1f929337e90804e002cd3e6\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.login_funcionario.resources
+C:\Users\56977\Documents\Arquitectura_1-c4931f00108c561db1f929337e90804e002cd3e6\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.Menu_usuario.resources
+C:\Users\56977\Documents\Arquitectura_1-c4931f00108c561db1f929337e90804e002cd3e6\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.Properties.Resources.resources
+C:\Users\56977\Documents\Arquitectura_1-c4931f00108c561db1f929337e90804e002cd3e6\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.Registrarse.resources
+C:\Users\56977\Documents\Arquitectura_1-c4931f00108c561db1f929337e90804e002cd3e6\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.Reporte_seleccionado.resources
+C:\Users\56977\Documents\Arquitectura_1-c4931f00108c561db1f929337e90804e002cd3e6\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.Selector_administracion.resources
+C:\Users\56977\Documents\Arquitectura_1-c4931f00108c561db1f929337e90804e002cd3e6\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Interfaz_usuario.csproj.GenerateResource.Cache
+C:\Users\56977\Documents\Arquitectura_1-c4931f00108c561db1f929337e90804e002cd3e6\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.exe
+C:\Users\56977\Documents\Arquitectura_1-c4931f00108c561db1f929337e90804e002cd3e6\Aplicacion_mobike\Aplicacion_mobike\obj\Debug\Aplicacion_mobike.pdb

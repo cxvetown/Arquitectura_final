@@ -1,0 +1,5 @@
+C:\Users\56977\documents\visual studio 2017\Projects\Aplicacion_mobike\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\56977\documents\visual studio 2017\Projects\Aplicacion_mobike\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\56977\documents\visual studio 2017\Projects\Aplicacion_mobike\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\56977\documents\visual studio 2017\Projects\Aplicacion_mobike\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\56977\documents\visual studio 2017\Projects\Aplicacion_mobike\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache

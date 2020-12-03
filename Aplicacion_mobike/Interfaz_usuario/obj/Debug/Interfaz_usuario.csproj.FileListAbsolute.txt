@@ -1,0 +1,4 @@
+C:\Users\56977\documents\visual studio 2017\Projects\Aplicacion_mobike\Interfaz_usuario\bin\Debug\Interfaz_usuario.dll
+C:\Users\56977\documents\visual studio 2017\Projects\Aplicacion_mobike\Interfaz_usuario\bin\Debug\Interfaz_usuario.pdb
+C:\Users\56977\documents\visual studio 2017\Projects\Aplicacion_mobike\Interfaz_usuario\obj\Debug\Interfaz_usuario.dll
+C:\Users\56977\documents\visual studio 2017\Projects\Aplicacion_mobike\Interfaz_usuario\obj\Debug\Interfaz_usuario.pdb

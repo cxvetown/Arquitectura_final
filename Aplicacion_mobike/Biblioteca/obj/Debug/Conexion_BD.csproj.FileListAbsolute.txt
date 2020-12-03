@@ -1,0 +1,24 @@
+C:\Users\56977\documents\visual studio 2017\Projects\Aplicacion_mobike\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\56977\documents\visual studio 2017\Projects\Aplicacion_mobike\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\56977\documents\visual studio 2017\Projects\Aplicacion_mobike\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\56977\documents\visual studio 2017\Projects\Aplicacion_mobike\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\richa\OneDrive\Escritorio\Arquitectura_1\Aplicacion_mobike\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\richa\OneDrive\Escritorio\Arquitectura_1\Aplicacion_mobike\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\richa\OneDrive\Escritorio\Arquitectura_1\Aplicacion_mobike\Biblioteca\obj\Debug\Conexion_BD.csprojAssemblyReference.cache
+C:\Users\richa\OneDrive\Escritorio\Arquitectura_1\Aplicacion_mobike\Biblioteca\obj\Debug\Conexion_BD.csproj.CoreCompileInputs.cache
+C:\Users\richa\OneDrive\Escritorio\Arquitectura_1\Aplicacion_mobike\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\richa\OneDrive\Escritorio\Arquitectura_1\Aplicacion_mobike\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\56977\Documents\GitHub\Arquitectura_1\Aplicacion_mobike\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\56977\Documents\GitHub\Arquitectura_1\Aplicacion_mobike\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\56977\Documents\GitHub\Arquitectura_1\Aplicacion_mobike\Biblioteca\bin\Debug\Mobike_data.dll
+C:\Users\56977\Documents\GitHub\Arquitectura_1\Aplicacion_mobike\Biblioteca\bin\Debug\Mobike_data.pdb
+C:\Users\56977\Documents\GitHub\Arquitectura_1\Aplicacion_mobike\Biblioteca\obj\Debug\Conexion_BD.csprojResolveAssemblyReference.cache
+C:\Users\56977\Documents\GitHub\Arquitectura_1\Aplicacion_mobike\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\56977\Documents\GitHub\Arquitectura_1\Aplicacion_mobike\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\56977\Documents\Arquitectura_1-c4931f00108c561db1f929337e90804e002cd3e6\Aplicacion_mobike\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\56977\Documents\Arquitectura_1-c4931f00108c561db1f929337e90804e002cd3e6\Aplicacion_mobike\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\56977\Documents\Arquitectura_1-c4931f00108c561db1f929337e90804e002cd3e6\Aplicacion_mobike\Biblioteca\bin\Debug\Mobike_data.dll
+C:\Users\56977\Documents\Arquitectura_1-c4931f00108c561db1f929337e90804e002cd3e6\Aplicacion_mobike\Biblioteca\bin\Debug\Mobike_data.pdb
+C:\Users\56977\Documents\Arquitectura_1-c4931f00108c561db1f929337e90804e002cd3e6\Aplicacion_mobike\Biblioteca\obj\Debug\Conexion_BD.csprojResolveAssemblyReference.cache
+C:\Users\56977\Documents\Arquitectura_1-c4931f00108c561db1f929337e90804e002cd3e6\Aplicacion_mobike\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\56977\Documents\Arquitectura_1-c4931f00108c561db1f929337e90804e002cd3e6\Aplicacion_mobike\Biblioteca\obj\Debug\Biblioteca.pdb
